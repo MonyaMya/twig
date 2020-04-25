@@ -1,0 +1,12 @@
+{
+    "name": "monya/twig",
+    "authors": [
+        {
+            "name": "MonyaMya",
+            "email": "you@example.com"
+        }
+    ],
+    "require": {
+        "twig/twig": "^3.0"
+    }
+}
